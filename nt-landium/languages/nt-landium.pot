@@ -1,0 +1,2892 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NT Landium\n"
+"POT-Creation-Date: 2016-11-30 17:59+0300\n"
+"PO-Revision-Date: 2016-11-30 17:59+0300\n"
+"Last-Translator: Ninetheme <ninetheme@gmail.com>\n"
+"Language-Team: Ninetheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;__;_e;"
+"_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:32
+msgid "404 - Not Found"
+msgstr ""
+
+#: ../404.php:70
+msgid "Hmm, we could not find what you are looking for."
+msgstr ""
+
+#: ../404.php:71
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../404.php:79
+msgid "Recent Posts"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Our Archive"
+msgstr ""
+
+#: ../archive.php:77 ../index.php:71
+msgid "Previous page"
+msgstr ""
+
+#: ../archive.php:78 ../index.php:72
+msgid "Next page"
+msgstr ""
+
+#: ../archive.php:79 ../content-page.php:28
+#: ../post-format/content-audio.php:54 ../post-format/content-gallery.php:57
+#: ../post-format/content-quote.php:77 ../post-format/content-video.php:68
+#: ../post-format/content.php:60 ../search.php:71
+msgid "Page"
+msgstr ""
+
+#: ../comments.php:25
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:32 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:72
+msgid "You must be "
+msgstr ""
+
+#: ../comments.php:72
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:72
+msgid "to post a comment."
+msgstr ""
+
+#: ../content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:19 ../post-format/content-audio.php:45
+#: ../post-format/content-gallery.php:48 ../post-format/content-quote.php:68
+#: ../post-format/content-video.php:59 ../post-format/content.php:51
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../content-page.php:24 ../post-format/content-audio.php:50
+#: ../post-format/content-gallery.php:53 ../post-format/content-quote.php:73
+#: ../post-format/content-video.php:64 ../post-format/content.php:56
+msgid "Pages:"
+msgstr ""
+
+#: ../content-search.php:30 ../post-format/content-audio.php:34
+#: ../post-format/content-gallery.php:37 ../post-format/content-quote.php:57
+#: ../post-format/content-video.php:48 ../post-format/content.php:40
+msgid "in"
+msgstr ""
+
+#: ../includes/breadcrumb.php:44
+msgid "Our Blog"
+msgstr ""
+
+#: ../includes/breadcrumb.php:45 ../includes/breadcrumb.php:47
+msgid "Home"
+msgstr ""
+
+#: ../includes/breadcrumb.php:91
+msgid "Category: "
+msgstr ""
+
+#: ../includes/breadcrumb.php:93
+msgid "Tag: "
+msgstr ""
+
+#: ../includes/breadcrumb.php:106
+msgid "Error 404"
+msgstr ""
+
+#: ../includes/breadcrumb.php:108
+msgid "Search"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:393
+#: ../includes/class-tgm-plugin-activation.php:912
+#: ../includes/class-tgm-plugin-activation.php:2618
+#: ../includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:394
+#: ../includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:395
+#: ../includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1019
+#: ../includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: ../includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../includes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../includes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../includes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#: ../includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#: ../includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:60
+msgid "Page Subtitle / Rich Text Editor"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:84
+msgid "Page breadcrumb background color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:89
+msgid "Page breadcrumb text color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:95
+msgid "Page header padding top"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:103
+msgid "Page header padding bottom"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:112
+msgid "Page sidebar"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:116
+msgid "left"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:117
+msgid "right"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:118
+msgid "full"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:122
+msgid "Select an Item"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:130 ../includes/page-metaboxes.php:143
+msgid "Metabox menu"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:138
+msgid "Header menu type"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:139
+msgid "Select header menu type"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:144
+msgid "Default Primary menu"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:181
+msgid "Price table"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:189
+msgid "Select featured pack"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:193
+msgid "Normal Pack"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:194
+msgid "Best Pack"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:200
+msgid "Featured pack tag"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:207
+msgid "Select pack color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:209
+msgid "This option is only for style 1 ( in shortcode Post options)"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:212
+msgid "Blue"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:213
+msgid "Green"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:214
+msgid "Red"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:215
+msgid "Yellow"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:221
+msgid "Price pack name"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:228
+msgid "Currency"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:235
+msgid "Price"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:242
+msgid "Small amount"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:249
+msgid "Period"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:257
+msgid "Table Features List"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:258
+msgid "Add features for this pack"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:273 ../includes/page-metaboxes.php:403
+msgid "Mobile column size"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:279 ../includes/page-metaboxes.php:301
+#: ../includes/page-metaboxes.php:409 ../includes/page-metaboxes.php:431
+msgid "Select Custom Column"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:280 ../includes/page-metaboxes.php:410
+#: ../includes/visual-shortcodes.php:390 ../includes/visual-shortcodes.php:614
+msgid "col-sm-1"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:281 ../includes/page-metaboxes.php:411
+#: ../includes/visual-shortcodes.php:391 ../includes/visual-shortcodes.php:615
+msgid "col-sm-2"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:282 ../includes/page-metaboxes.php:412
+#: ../includes/visual-shortcodes.php:392 ../includes/visual-shortcodes.php:616
+msgid "col-sm-3"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:283 ../includes/page-metaboxes.php:413
+#: ../includes/visual-shortcodes.php:393 ../includes/visual-shortcodes.php:617
+msgid "col-sm-4"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:284 ../includes/page-metaboxes.php:414
+#: ../includes/visual-shortcodes.php:394 ../includes/visual-shortcodes.php:618
+msgid "col-sm-5"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:285 ../includes/page-metaboxes.php:415
+#: ../includes/visual-shortcodes.php:395 ../includes/visual-shortcodes.php:619
+msgid "col-sm-6"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:286 ../includes/page-metaboxes.php:416
+#: ../includes/visual-shortcodes.php:396 ../includes/visual-shortcodes.php:620
+msgid "col-sm-7"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:287 ../includes/page-metaboxes.php:417
+#: ../includes/visual-shortcodes.php:397 ../includes/visual-shortcodes.php:621
+msgid "col-sm-8"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:288 ../includes/page-metaboxes.php:418
+#: ../includes/visual-shortcodes.php:398 ../includes/visual-shortcodes.php:622
+msgid "col-sm-9"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:289 ../includes/page-metaboxes.php:419
+#: ../includes/visual-shortcodes.php:399 ../includes/visual-shortcodes.php:623
+msgid "col-sm-10"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:290 ../includes/page-metaboxes.php:420
+#: ../includes/visual-shortcodes.php:400 ../includes/visual-shortcodes.php:624
+msgid "col-sm-11"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:291 ../includes/page-metaboxes.php:421
+#: ../includes/visual-shortcodes.php:401 ../includes/visual-shortcodes.php:625
+msgid "col-sm-12"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:295 ../includes/page-metaboxes.php:425
+msgid "Desktop column size"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:302 ../includes/page-metaboxes.php:432
+#: ../includes/visual-shortcodes.php:338 ../includes/visual-shortcodes.php:562
+msgid "col-md-1"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:303 ../includes/page-metaboxes.php:433
+#: ../includes/visual-shortcodes.php:339 ../includes/visual-shortcodes.php:563
+msgid "col-md-2"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:304 ../includes/page-metaboxes.php:434
+#: ../includes/visual-shortcodes.php:340 ../includes/visual-shortcodes.php:564
+msgid "col-md-3"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:305 ../includes/page-metaboxes.php:435
+#: ../includes/visual-shortcodes.php:341 ../includes/visual-shortcodes.php:565
+msgid "col-md-4"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:306 ../includes/page-metaboxes.php:436
+#: ../includes/visual-shortcodes.php:342 ../includes/visual-shortcodes.php:566
+msgid "col-md-5"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:307 ../includes/page-metaboxes.php:437
+#: ../includes/visual-shortcodes.php:343 ../includes/visual-shortcodes.php:567
+msgid "col-md-6"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:308 ../includes/page-metaboxes.php:438
+#: ../includes/visual-shortcodes.php:344 ../includes/visual-shortcodes.php:568
+msgid "col-md-7"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:309 ../includes/page-metaboxes.php:439
+#: ../includes/visual-shortcodes.php:345 ../includes/visual-shortcodes.php:569
+msgid "col-md-8"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:310 ../includes/page-metaboxes.php:440
+#: ../includes/visual-shortcodes.php:346 ../includes/visual-shortcodes.php:570
+msgid "col-md-9"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:311 ../includes/page-metaboxes.php:441
+#: ../includes/visual-shortcodes.php:347 ../includes/visual-shortcodes.php:571
+msgid "col-md-10"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:312 ../includes/page-metaboxes.php:442
+#: ../includes/visual-shortcodes.php:348 ../includes/visual-shortcodes.php:572
+msgid "col-md-11"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:313 ../includes/page-metaboxes.php:443
+#: ../includes/visual-shortcodes.php:349 ../includes/visual-shortcodes.php:573
+msgid "col-md-12"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:317 ../includes/page-metaboxes.php:447
+msgid "Column offset size for desktop"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:323 ../includes/page-metaboxes.php:453
+msgid "Select Column offset"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:324 ../includes/page-metaboxes.php:454
+msgid "offset-0"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:325 ../includes/page-metaboxes.php:455
+msgid "offset-1"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:326 ../includes/page-metaboxes.php:456
+msgid "offset-2"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:327 ../includes/page-metaboxes.php:457
+msgid "offset-3"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:328 ../includes/page-metaboxes.php:458
+msgid "offset-4"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:329 ../includes/page-metaboxes.php:459
+msgid "offset-5"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:330 ../includes/page-metaboxes.php:460
+msgid "offset-6"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:331 ../includes/page-metaboxes.php:461
+msgid "offset-7"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:332 ../includes/page-metaboxes.php:462
+msgid "offset-8"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:333 ../includes/page-metaboxes.php:463
+msgid "offset-9"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:334 ../includes/page-metaboxes.php:464
+msgid "offset-10"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:335 ../includes/page-metaboxes.php:465
+msgid "offset-11"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:336 ../includes/page-metaboxes.php:466
+msgid "offset-12"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:348
+msgid "Team Details"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:357
+msgid "Team Job"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:364
+msgid "Social Icon Name"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:365
+msgid ""
+"Format: fa fa-facebook or fonticon class name. Enter social icon name here"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:375
+msgid "Social Url"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:376
+msgid "Format: http://facebook.com"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:386
+msgid "Select target type"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:532 ../includes/page-metaboxes.php:675
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:536 ../includes/page-metaboxes.php:679
+msgid "Select Images"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:537 ../includes/page-metaboxes.php:680
+msgid "Select the images from the media library or upload your new ones."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:547
+msgid "Quote Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:551
+msgid "The Quote"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:552
+msgid "Write your quote in this field."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:558
+msgid "The Author"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:559
+msgid "Enter the name of the author of this quote."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:564
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:565
+msgid "Choose the background color for this quote."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:570
+msgid "Background Opacity"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:571
+msgid "Choose the opacity of the background color."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:584 ../includes/page-metaboxes.php:690
+msgid "Audio Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:589 ../includes/page-metaboxes.php:695
+msgid ""
+"These settings enable you to embed audio in your posts. Note that for audio, "
+"you must supply both MP3 and OGG files to satisfy all browsers. For poster "
+"you can select a featured image."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:593 ../includes/page-metaboxes.php:699
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:594 ../includes/page-metaboxes.php:700
+msgid "The URL to the .mp3 audio file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:599 ../includes/page-metaboxes.php:705
+msgid "OGA File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:600 ../includes/page-metaboxes.php:706
+msgid "The URL to the .oga, .ogg audio file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:605 ../includes/page-metaboxes.php:711
+msgid "Divider"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:606 ../includes/page-metaboxes.php:712
+msgid "divider."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:611 ../includes/page-metaboxes.php:717
+msgid "SoundCloud"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:612 ../includes/page-metaboxes.php:718
+msgid "Enter the url of the soundcloud audio."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:617 ../includes/page-metaboxes.php:723
+msgid "Color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:618 ../includes/page-metaboxes.php:724
+msgid "Choose the color."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:631 ../includes/page-metaboxes.php:735
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:636 ../includes/page-metaboxes.php:740
+msgid ""
+"These settings enable you to embed videos into your posts. Note that for "
+"video, you must supply an M4V file to satisfy both HTML5 and Flash "
+"solutions. The optional OGV format is used to increase x-browser support for "
+"HTML5 browsers such as Firefox and Opera. For the poster, you can select a "
+"featured image."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:640 ../includes/page-metaboxes.php:744
+msgid "M4V File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:641 ../includes/page-metaboxes.php:745
+msgid "The URL to the .m4v video file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:646 ../includes/page-metaboxes.php:750
+msgid "OGV File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:647 ../includes/page-metaboxes.php:751
+msgid "The URL to the .ogv video file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:652 ../includes/page-metaboxes.php:756
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:653 ../includes/page-metaboxes.php:757
+msgid "The URL to the .webm video file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:658 ../includes/page-metaboxes.php:762
+msgid "Embeded Code"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:659 ../includes/page-metaboxes.php:763
+msgid "Select the preview image for this video."
+msgstr ""
+
+#: ../includes/template-tags.php:26
+msgid " Older posts"
+msgstr ""
+
+#: ../includes/template-tags.php:30
+msgid "Newer posts "
+msgstr ""
+
+#: ../includes/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i> %title "
+msgstr ""
+
+#: ../includes/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-angle-right\"></i> "
+msgstr ""
+
+#: ../includes/theme-init.php:19
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../includes/theme-init.php:20
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../includes/theme-init.php:231
+msgid "Primary Menu"
+msgstr ""
+
+#: ../includes/theme-init.php:232
+msgid "Secondary Header Menu"
+msgstr ""
+
+#: ../includes/theme-init.php:244
+msgid "Blog Sidebar Area"
+msgstr ""
+
+#: ../includes/theme-init.php:246
+msgid "These are widgets for the blog page."
+msgstr ""
+
+#: ../includes/theme-init.php:253
+msgid "Footer Widgetize Area"
+msgstr ""
+
+#: ../includes/theme-init.php:255
+msgid "Theme footer widgetize area"
+msgstr ""
+
+#: ../includes/theme-init.php:262
+msgid "Footer Newsletter Area"
+msgstr ""
+
+#: ../includes/theme-init.php:264
+msgid "Theme footer default area"
+msgstr ""
+
+#: ../includes/theme-init.php:285
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: ../includes/theme-init.php:289
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../includes/theme-init.php:293
+msgid "Meta Box"
+msgstr ""
+
+#: ../includes/theme-init.php:298
+msgid "Option Tree"
+msgstr ""
+
+#: ../includes/theme-init.php:303 ../includes/theme-init.php:310
+msgid "Metabox Tabs"
+msgstr ""
+
+#: ../includes/theme-init.php:317
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: ../includes/theme-init.php:324
+msgid "Visual Composer"
+msgstr ""
+
+#: ../includes/theme-init.php:331
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/theme-init.php:338
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: ../includes/theme-init.php:342
+msgid "Price Table- Type"
+msgstr ""
+
+#: ../includes/theme-init.php:349
+msgid "NT Landium Shortcodes"
+msgstr ""
+
+#: ../includes/theme-init.php:540
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/theme-init.php:540
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/theme-init.php:554
+msgid "Edit"
+msgstr ""
+
+#: ../includes/theme-init.php:556
+msgid "at"
+msgstr ""
+
+#: ../includes/theme-init.php:558
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/theme-options.php:107
+msgid "Theme general color 2"
+msgstr ""
+
+#: ../includes/theme-options.php:108 ../includes/theme-options.php:115
+#: ../includes/theme-options.php:239 ../includes/theme-options.php:246
+#: ../includes/theme-options.php:253 ../includes/theme-options.php:260
+#: ../includes/theme-options.php:267 ../includes/theme-options.php:274
+#: ../includes/theme-options.php:281 ../includes/theme-options.php:366
+#: ../includes/theme-options.php:374 ../includes/theme-options.php:381
+#: ../includes/theme-options.php:388 ../includes/theme-options.php:395
+#: ../includes/theme-options.php:402 ../includes/theme-options.php:409
+#: ../includes/theme-options.php:416 ../includes/theme-options.php:424
+#: ../includes/theme-options.php:431 ../includes/theme-options.php:438
+#: ../includes/theme-options.php:445 ../includes/theme-options.php:452
+#: ../includes/theme-options.php:459 ../includes/theme-options.php:466
+#: ../includes/theme-options.php:473 ../includes/theme-options.php:480
+#: ../includes/theme-options.php:487 ../includes/theme-options.php:494
+#: ../includes/theme-options.php:501 ../includes/theme-options.php:509
+#: ../includes/theme-options.php:516 ../includes/theme-options.php:523
+#: ../includes/theme-options.php:530 ../includes/theme-options.php:538
+#: ../includes/theme-options.php:545 ../includes/theme-options.php:552
+#: ../includes/theme-options.php:559 ../includes/theme-options.php:566
+#: ../includes/theme-options.php:573 ../includes/theme-options.php:580
+#: ../includes/theme-options.php:587 ../includes/theme-options.php:607
+#: ../includes/theme-options.php:654 ../includes/theme-options.php:702
+#: ../includes/theme-options.php:732 ../includes/theme-options.php:800
+#: ../includes/theme-options.php:825 ../includes/theme-options.php:842
+#: ../includes/theme-options.php:906 ../includes/theme-options.php:930
+#: ../includes/theme-options.php:948 ../includes/theme-options.php:1014
+#: ../includes/theme-options.php:1038 ../includes/theme-options.php:1047
+#: ../includes/theme-options.php:1054 ../includes/theme-options.php:1071
+#: ../includes/theme-options.php:1078 ../includes/theme-options.php:1085
+#: ../includes/theme-options.php:1257 ../includes/theme-options.php:1264
+#: ../includes/theme-options.php:1271 ../includes/theme-options.php:1278
+msgid "Please select color"
+msgstr ""
+
+#: ../includes/theme-options.php:114
+msgid "Theme general color 1"
+msgstr ""
+
+#: ../includes/theme-options.php:124
+msgid "Logo Type"
+msgstr ""
+
+#: ../includes/theme-options.php:125
+msgid "Choose logo type"
+msgstr ""
+
+#: ../includes/theme-options.php:133
+msgid "Image Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:138
+msgid "Text Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:152
+msgid "Logo image width and height"
+msgstr ""
+
+#: ../includes/theme-options.php:153
+msgid "The Dimension option type is used to set width and height values."
+msgstr ""
+
+#: ../includes/theme-options.php:160
+msgid "Logo margin values"
+msgstr ""
+
+#: ../includes/theme-options.php:161
+msgid "Logo margin in the form of top, right, bottom, and left."
+msgstr ""
+
+#: ../includes/theme-options.php:168
+msgid "Logo padding values"
+msgstr ""
+
+#: ../includes/theme-options.php:169
+msgid "Logo padding in the form of top, right, bottom, and left."
+msgstr ""
+
+#: ../includes/theme-options.php:186
+msgid "Preloader"
+msgstr ""
+
+#: ../includes/theme-options.php:187
+#, php-format
+msgid "Preloader visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:196 ../includes/theme-options.php:204
+msgid "Select preloader type"
+msgstr ""
+
+#: ../includes/theme-options.php:197
+msgid "Loader types"
+msgstr ""
+
+#: ../includes/theme-options.php:208 ../includes/theme-options.php:1110
+msgid "1"
+msgstr ""
+
+#: ../includes/theme-options.php:212 ../includes/theme-options.php:1114
+msgid "2"
+msgstr ""
+
+#: ../includes/theme-options.php:216 ../includes/theme-options.php:1118
+msgid "3"
+msgstr ""
+
+#: ../includes/theme-options.php:220
+msgid "4"
+msgstr ""
+
+#: ../includes/theme-options.php:224
+msgid "5"
+msgstr ""
+
+#: ../includes/theme-options.php:228
+msgid "6"
+msgstr ""
+
+#: ../includes/theme-options.php:238
+msgid "Theme navigation background color "
+msgstr ""
+
+#: ../includes/theme-options.php:245
+msgid "Theme navigation fixed type background color "
+msgstr ""
+
+#: ../includes/theme-options.php:252
+msgid "Theme navigation menu item color"
+msgstr ""
+
+#: ../includes/theme-options.php:259
+msgid "Theme navigation menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:266
+msgid "Theme navigation dropdown background color "
+msgstr ""
+
+#: ../includes/theme-options.php:273
+msgid "Theme navigation dropdown menu item color"
+msgstr ""
+
+#: ../includes/theme-options.php:280
+msgid "Theme navigation dropdown menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:289
+msgid "Blog Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:290
+msgid "Choose blog page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:298
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:299
+msgid "Choose default page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:307
+msgid "Search page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:308
+msgid "Choose search page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:316
+msgid "Blog single page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:317
+msgid "Choose post page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:325
+msgid "archive page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:326
+msgid "Choose archive page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:334
+msgid "404 page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:335 ../includes/theme-options.php:354
+msgid "Choose 404 page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:344
+msgid "Woocommerce single page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:345
+msgid "Choose Woocommerce single page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:353
+msgid "Woocommerce  page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:365 ../includes/theme-options.php:373
+msgid "Theme Sidebar widget area background color"
+msgstr ""
+
+#: ../includes/theme-options.php:380
+msgid "Theme Sidebar widget general color"
+msgstr ""
+
+#: ../includes/theme-options.php:387
+msgid "Theme Sidebar widget title color"
+msgstr ""
+
+#: ../includes/theme-options.php:394
+msgid "Theme Sidebar link title color"
+msgstr ""
+
+#: ../includes/theme-options.php:401
+msgid "Theme Sidebar link title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:408
+msgid "Theme Sidebar search submit text color"
+msgstr ""
+
+#: ../includes/theme-options.php:415
+msgid "Theme Sidebar search submit background color"
+msgstr ""
+
+#: ../includes/theme-options.php:423
+msgid "Blog Post Title color"
+msgstr ""
+
+#: ../includes/theme-options.php:430
+msgid "Blog Post Title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:437
+msgid "Blog Post Meta Title color"
+msgstr ""
+
+#: ../includes/theme-options.php:444
+msgid "Blog Post Meta Link Text color"
+msgstr ""
+
+#: ../includes/theme-options.php:451
+msgid "Blog Post Meta Link Text hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:458
+msgid "Blog Post Meta Link Text background color"
+msgstr ""
+
+#: ../includes/theme-options.php:465
+msgid "Blog Post Meta Link Text background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:472
+msgid "Blog Post Paragraph color"
+msgstr ""
+
+#: ../includes/theme-options.php:479
+msgid "Blog Post button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:486
+msgid "Blog Post button background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:493
+msgid "Blog Post button title color"
+msgstr ""
+
+#: ../includes/theme-options.php:500
+msgid "Blog Post button title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:508
+msgid "Blog Post Share Icon background color"
+msgstr ""
+
+#: ../includes/theme-options.php:515
+msgid "Blog Post Share Icon background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:522
+msgid "Blog Post Share Icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:529
+msgid "Blog Post Share Icon hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:537
+msgid "Single post comment button title color"
+msgstr ""
+
+#: ../includes/theme-options.php:544
+msgid "Single post comment button title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:551
+msgid "Single post comment button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:558
+msgid "Single post comment button background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:565
+msgid "Pager button title color"
+msgstr ""
+
+#: ../includes/theme-options.php:572
+msgid "Pager button title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:579
+msgid "Pager button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:586
+msgid "Pager button background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:597
+msgid "Blog page header section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:598 ../includes/theme-options.php:645
+#: ../includes/theme-options.php:723 ../includes/theme-options.php:834
+#: ../includes/theme-options.php:939
+msgid "You can upload your image for parallax header"
+msgstr ""
+
+#: ../includes/theme-options.php:606
+msgid "Blog Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:614 ../includes/theme-options.php:615
+msgid "Blog Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:624
+msgid "Blog page header padding"
+msgstr ""
+
+#: ../includes/theme-options.php:625 ../includes/theme-options.php:633
+#: ../includes/theme-options.php:682 ../includes/theme-options.php:692
+#: ../includes/theme-options.php:750 ../includes/theme-options.php:760
+#: ../includes/theme-options.php:859 ../includes/theme-options.php:869
+#: ../includes/theme-options.php:966 ../includes/theme-options.php:976
+msgid "You can use this option for heading text vertical align"
+msgstr ""
+
+#: ../includes/theme-options.php:632 ../includes/theme-options.php:691
+#: ../includes/theme-options.php:759 ../includes/theme-options.php:868
+#: ../includes/theme-options.php:975
+msgid "Header padding bottom"
+msgstr ""
+
+#: ../includes/theme-options.php:644
+msgid "Single Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:653
+msgid "Single Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:661
+msgid "Single pages heading post title visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:662
+#, php-format
+msgid "Please select single pages heading post title  visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:671 ../includes/theme-options.php:672
+msgid "Single Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:681 ../includes/theme-options.php:749
+#: ../includes/theme-options.php:858 ../includes/theme-options.php:965
+msgid "Header padding top"
+msgstr ""
+
+#: ../includes/theme-options.php:701
+msgid "Single Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:708
+msgid "Single Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:709
+msgid "Enter Single Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:722
+msgid "Archive Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:731
+msgid "Archive Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:739 ../includes/theme-options.php:740
+msgid "Archive Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:771 ../includes/theme-options.php:807
+msgid "Archive Heading visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:772
+#, php-format
+msgid "Archive Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:780
+msgid "Archive Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:781
+msgid "Enter Archive Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:788
+msgid "Archive Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:789
+msgid "Enter Archive Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:799
+msgid "Archive Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:808
+#, php-format
+msgid "Archive slogan visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:816
+msgid "Archive Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:817
+msgid "Enter Archive Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:824
+msgid "Archive Pages paragraph/slogan color "
+msgstr ""
+
+#: ../includes/theme-options.php:833
+msgid "404 Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:841
+msgid "404 Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:848 ../includes/theme-options.php:849
+msgid "404 Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:878
+msgid "404 Page Heading visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:879
+#, php-format
+msgid "error Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:887
+msgid "404 Page Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:888
+msgid "Enter Error Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:895
+msgid "404 Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:896
+msgid "Enter 404 Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:905
+msgid "404 Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:912
+msgid "404 Page slogan visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:913
+#, php-format
+msgid "404 Page slogan visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:921
+msgid "404 Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:922
+msgid "Enter 404 Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:929
+msgid "404 Pages paragraph/slogan color "
+msgstr ""
+
+#: ../includes/theme-options.php:938
+msgid "Search Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:947
+msgid "Search Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:955 ../includes/theme-options.php:956
+msgid "Search Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:986
+msgid "Search Page Heading visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:987
+#, php-format
+msgid "search Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:995
+msgid "Search Page Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:996
+msgid "Enter Search Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1003
+msgid "Search Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1004
+msgid "Enter Search Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1013
+msgid "Search Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1020
+msgid "Search Page slogan visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1021
+#, php-format
+msgid "Search Page slogan visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1029
+msgid "Search Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1030
+msgid "Enter Search Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1037
+msgid "Search Pages paragraph/slogan color "
+msgstr ""
+
+#: ../includes/theme-options.php:1046
+msgid "Blog pages heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1053
+msgid "Blog pages subtitle color "
+msgstr ""
+
+#: ../includes/theme-options.php:1061
+msgid "Default and Fullwidth  Page breadcrubms visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1062
+#, php-format
+msgid "Breadcrubms visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1070
+msgid "Blog Pages Breadcrubms color "
+msgstr ""
+
+#: ../includes/theme-options.php:1077
+msgid "Blog Pages Breadcrubms hover color "
+msgstr ""
+
+#: ../includes/theme-options.php:1084
+msgid "Blog Pages Breadcrubms current page text color "
+msgstr ""
+
+#: ../includes/theme-options.php:1091
+msgid "Breadcrubms font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1092
+msgid "Blog/Pages Header Breadcrubms font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1103
+msgid "Footer type"
+msgstr ""
+
+#: ../includes/theme-options.php:1104 ../includes/theme-options.php:1227
+msgid "Select social media target type. Default : _blank"
+msgstr ""
+
+#: ../includes/theme-options.php:1125
+msgid "Footer top widgetize area section"
+msgstr ""
+
+#: ../includes/theme-options.php:1126
+#, php-format
+msgid "Choose footer widgetize section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1135
+msgid "Footer top default section"
+msgstr ""
+
+#: ../includes/theme-options.php:1136
+#, php-format
+msgid "Choose footer default section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1144
+msgid "Footer newsletter section visibility "
+msgstr ""
+
+#: ../includes/theme-options.php:1145
+#, php-format
+msgid "Choose newsletter section visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1164
+msgid "Footer contact section visibility "
+msgstr ""
+
+#: ../includes/theme-options.php:1165
+#, php-format
+msgid "Choose contact section visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1196
+msgid "Social section visibility "
+msgstr ""
+
+#: ../includes/theme-options.php:1197
+#, php-format
+msgid "Choose social section visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1226
+msgid "Target social media"
+msgstr ""
+
+#: ../includes/theme-options.php:1235
+msgid "_blank"
+msgstr ""
+
+#: ../includes/theme-options.php:1239
+msgid "_self"
+msgstr ""
+
+#: ../includes/theme-options.php:1243
+msgid "_parent"
+msgstr ""
+
+#: ../includes/theme-options.php:1247
+msgid "_top"
+msgstr ""
+
+#: ../includes/theme-options.php:1256
+msgid "Footer Background  color "
+msgstr ""
+
+#: ../includes/theme-options.php:1263
+msgid "Footer copyright text color "
+msgstr ""
+
+#: ../includes/theme-options.php:1270
+msgid "Footer Social color "
+msgstr ""
+
+#: ../includes/theme-options.php:1277
+msgid "Footer Social Icon hover color "
+msgstr ""
+
+#: ../includes/theme-options.php:1285
+msgid "Google Maps api key"
+msgstr ""
+
+#: ../includes/theme-options.php:1286
+msgid ""
+"You must create an api key and paste this box. Create :https://developers."
+"google.com/maps/documentation/javascript/get-api-key#key "
+msgstr ""
+
+#: ../includes/theme-options.php:1293
+msgid "Google Maps longitude"
+msgstr ""
+
+#: ../includes/theme-options.php:1300
+msgid "Google Maps latitude"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:65 ../includes/visual-shortcodes.php:140
+#: ../includes/visual-shortcodes.php:147 ../includes/visual-shortcodes.php:154
+msgid "Hero Form"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:67 ../includes/visual-shortcodes.php:168
+#: ../includes/visual-shortcodes.php:254 ../includes/visual-shortcodes.php:478
+#: ../includes/visual-shortcodes.php:702 ../includes/visual-shortcodes.php:756
+#: ../includes/visual-shortcodes.php:837 ../includes/visual-shortcodes.php:944
+#: ../includes/visual-shortcodes.php:985
+#: ../includes/visual-shortcodes.php:1137
+#: ../includes/visual-shortcodes.php:1289
+#: ../includes/visual-shortcodes.php:1401
+#: ../includes/visual-shortcodes.php:1470
+#: ../includes/visual-shortcodes.php:1522
+#: ../includes/visual-shortcodes.php:1631
+#: ../includes/visual-shortcodes.php:1719
+msgid "NT Landium"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:71 ../includes/visual-shortcodes.php:172
+#: ../includes/visual-shortcodes.php:258 ../includes/visual-shortcodes.php:482
+#: ../includes/visual-shortcodes.php:706 ../includes/visual-shortcodes.php:760
+#: ../includes/visual-shortcodes.php:841 ../includes/visual-shortcodes.php:948
+#: ../includes/visual-shortcodes.php:989
+#: ../includes/visual-shortcodes.php:1141
+#: ../includes/visual-shortcodes.php:1293
+#: ../includes/visual-shortcodes.php:1405
+#: ../includes/visual-shortcodes.php:1474
+#: ../includes/visual-shortcodes.php:1526
+#: ../includes/visual-shortcodes.php:1635
+#: ../includes/visual-shortcodes.php:1723
+msgid "Section ID"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:73 ../includes/visual-shortcodes.php:174
+#: ../includes/visual-shortcodes.php:260 ../includes/visual-shortcodes.php:484
+#: ../includes/visual-shortcodes.php:708 ../includes/visual-shortcodes.php:762
+#: ../includes/visual-shortcodes.php:843 ../includes/visual-shortcodes.php:950
+#: ../includes/visual-shortcodes.php:991
+#: ../includes/visual-shortcodes.php:1143
+#: ../includes/visual-shortcodes.php:1295
+#: ../includes/visual-shortcodes.php:1407
+#: ../includes/visual-shortcodes.php:1725
+msgid "Add Your Section ID for scroll"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:77 ../includes/visual-shortcodes.php:178
+msgid "Background parallax image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:79 ../includes/visual-shortcodes.php:180
+msgid "Add your BG parallax image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:83 ../includes/visual-shortcodes.php:190
+msgid "Select particles effect hide or show"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:85 ../includes/visual-shortcodes.php:192
+msgid "You can select particles effect hide or show"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:87 ../includes/visual-shortcodes.php:194
+msgid "Select particles effect"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:88 ../includes/visual-shortcodes.php:99
+#: ../includes/visual-shortcodes.php:195 ../includes/visual-shortcodes.php:206
+#: ../includes/visual-shortcodes.php:270 ../includes/visual-shortcodes.php:494
+#: ../includes/visual-shortcodes.php:853
+#: ../includes/visual-shortcodes.php:1000
+#: ../includes/visual-shortcodes.php:1152
+#: ../includes/visual-shortcodes.php:1304
+#: ../includes/visual-shortcodes.php:1537
+#: ../includes/visual-shortcodes.php:1646
+msgid "Show"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:89 ../includes/visual-shortcodes.php:100
+#: ../includes/visual-shortcodes.php:196 ../includes/visual-shortcodes.php:207
+#: ../includes/visual-shortcodes.php:271 ../includes/visual-shortcodes.php:495
+#: ../includes/visual-shortcodes.php:854
+#: ../includes/visual-shortcodes.php:1001
+#: ../includes/visual-shortcodes.php:1153
+#: ../includes/visual-shortcodes.php:1305
+#: ../includes/visual-shortcodes.php:1538
+#: ../includes/visual-shortcodes.php:1647
+msgid "Hide"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:94 ../includes/visual-shortcodes.php:201
+msgid "Select overlay color hide or show"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:96 ../includes/visual-shortcodes.php:203
+msgid "You can select overlay mask color hide or show"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:98 ../includes/visual-shortcodes.php:205
+msgid "Select a style"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:105 ../includes/visual-shortcodes.php:212
+msgid "Overlay color"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:107 ../includes/visual-shortcodes.php:214
+msgid "Add/select an color"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:115 ../includes/visual-shortcodes.php:118
+#: ../includes/visual-shortcodes.php:126 ../includes/visual-shortcodes.php:133
+#: ../includes/visual-shortcodes.php:222 ../includes/visual-shortcodes.php:225
+#: ../includes/visual-shortcodes.php:233 ../includes/visual-shortcodes.php:240
+#: ../includes/visual-shortcodes.php:268 ../includes/visual-shortcodes.php:279
+#: ../includes/visual-shortcodes.php:293 ../includes/visual-shortcodes.php:296
+#: ../includes/visual-shortcodes.php:307 ../includes/visual-shortcodes.php:492
+#: ../includes/visual-shortcodes.php:503 ../includes/visual-shortcodes.php:517
+#: ../includes/visual-shortcodes.php:520 ../includes/visual-shortcodes.php:531
+#: ../includes/visual-shortcodes.php:718 ../includes/visual-shortcodes.php:721
+#: ../includes/visual-shortcodes.php:728 ../includes/visual-shortcodes.php:735
+#: ../includes/visual-shortcodes.php:742 ../includes/visual-shortcodes.php:767
+#: ../includes/visual-shortcodes.php:770 ../includes/visual-shortcodes.php:777
+#: ../includes/visual-shortcodes.php:784 ../includes/visual-shortcodes.php:851
+#: ../includes/visual-shortcodes.php:863 ../includes/visual-shortcodes.php:874
+#: ../includes/visual-shortcodes.php:998
+#: ../includes/visual-shortcodes.php:1009
+#: ../includes/visual-shortcodes.php:1020
+#: ../includes/visual-shortcodes.php:1031
+#: ../includes/visual-shortcodes.php:1150
+#: ../includes/visual-shortcodes.php:1161
+#: ../includes/visual-shortcodes.php:1172
+#: ../includes/visual-shortcodes.php:1183
+#: ../includes/visual-shortcodes.php:1302
+#: ../includes/visual-shortcodes.php:1313
+#: ../includes/visual-shortcodes.php:1324
+#: ../includes/visual-shortcodes.php:1492
+#: ../includes/visual-shortcodes.php:1535
+#: ../includes/visual-shortcodes.php:1546
+#: ../includes/visual-shortcodes.php:1557
+#: ../includes/visual-shortcodes.php:1644
+#: ../includes/visual-shortcodes.php:1655
+#: ../includes/visual-shortcodes.php:1666
+#: ../includes/visual-shortcodes.php:1741
+msgid "Heading"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:117 ../includes/visual-shortcodes.php:224
+#: ../includes/visual-shortcodes.php:295 ../includes/visual-shortcodes.php:519
+#: ../includes/visual-shortcodes.php:720 ../includes/visual-shortcodes.php:769
+#: ../includes/visual-shortcodes.php:1494
+#: ../includes/visual-shortcodes.php:1743
+msgid "Add heading for this section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:123 ../includes/visual-shortcodes.php:230
+#: ../includes/visual-shortcodes.php:304 ../includes/visual-shortcodes.php:528
+#: ../includes/visual-shortcodes.php:732 ../includes/visual-shortcodes.php:774
+#: ../includes/visual-shortcodes.php:1498
+#: ../includes/visual-shortcodes.php:1748
+msgid "Description"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:125 ../includes/visual-shortcodes.php:232
+#: ../includes/visual-shortcodes.php:306 ../includes/visual-shortcodes.php:530
+#: ../includes/visual-shortcodes.php:734 ../includes/visual-shortcodes.php:776
+#: ../includes/visual-shortcodes.php:1500
+#: ../includes/visual-shortcodes.php:1750
+msgid "Add description for this section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:130 ../includes/visual-shortcodes.php:237
+#: ../includes/visual-shortcodes.php:739 ../includes/visual-shortcodes.php:814
+msgid "Button (Link)"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:132 ../includes/visual-shortcodes.php:239
+#: ../includes/visual-shortcodes.php:741 ../includes/visual-shortcodes.php:816
+#: ../includes/visual-shortcodes.php:1764
+#: ../includes/visual-shortcodes.php:1778
+msgid "Add custom link."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:137
+msgid "Hero Contact Form heading"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:139
+msgid "Add contact form 7 heading/title"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:144
+msgid "Hero Contact Form description"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:146
+msgid "Add contact form 7 description"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:151
+msgid "Hero Contact Form"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:153
+msgid "Add contact form 7 shortcode here"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:166
+msgid "Hero Product"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:184
+msgid "Product image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:186
+msgid "Add your hero product image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:252
+msgid "Services Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:265 ../includes/visual-shortcodes.php:489
+#: ../includes/visual-shortcodes.php:848 ../includes/visual-shortcodes.php:995
+#: ../includes/visual-shortcodes.php:1147
+#: ../includes/visual-shortcodes.php:1299
+#: ../includes/visual-shortcodes.php:1532
+#: ../includes/visual-shortcodes.php:1641
+msgid "Heading display ( hide or show )"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:267 ../includes/visual-shortcodes.php:491
+#: ../includes/visual-shortcodes.php:850 ../includes/visual-shortcodes.php:997
+#: ../includes/visual-shortcodes.php:1149
+#: ../includes/visual-shortcodes.php:1301
+#: ../includes/visual-shortcodes.php:1534
+#: ../includes/visual-shortcodes.php:1643
+msgid "You can select hide or show for section heading and description"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:276 ../includes/visual-shortcodes.php:500
+msgid "Text align( position )"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:278 ../includes/visual-shortcodes.php:502
+msgid "You can select position for section heading and description"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:281 ../includes/visual-shortcodes.php:505
+msgid "Select text align"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:282 ../includes/visual-shortcodes.php:506
+#: ../includes/visual-shortcodes.php:1423
+msgid "Left"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:283 ../includes/visual-shortcodes.php:507
+msgid "center"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:284 ../includes/visual-shortcodes.php:508
+#: ../includes/visual-shortcodes.php:1424
+msgid "Right"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:316 ../includes/visual-shortcodes.php:540
+msgid "Item column size"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:318 ../includes/visual-shortcodes.php:542
+msgid "You can select detail item column size"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:319 ../includes/visual-shortcodes.php:335
+#: ../includes/visual-shortcodes.php:361 ../includes/visual-shortcodes.php:387
+#: ../includes/visual-shortcodes.php:412 ../includes/visual-shortcodes.php:543
+#: ../includes/visual-shortcodes.php:559 ../includes/visual-shortcodes.php:585
+#: ../includes/visual-shortcodes.php:611 ../includes/visual-shortcodes.php:636
+msgid "Services"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:321 ../includes/visual-shortcodes.php:545
+msgid "Select column for all item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:322 ../includes/visual-shortcodes.php:546
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:323 ../includes/visual-shortcodes.php:547
+msgid "2 Column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:324 ../includes/visual-shortcodes.php:548
+msgid "3 Column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:325 ../includes/visual-shortcodes.php:549
+msgid "4 Column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:326 ../includes/visual-shortcodes.php:550
+msgid "6 Column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:327 ../includes/visual-shortcodes.php:551
+msgid "Custom Column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:332 ../includes/visual-shortcodes.php:556
+msgid "Desktop column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:334 ../includes/visual-shortcodes.php:558
+msgid "You can select desktop column size"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:337 ../includes/visual-shortcodes.php:561
+msgid "Select desktop column for all item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:358 ../includes/visual-shortcodes.php:582
+msgid "Desktop column offset"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:360 ../includes/visual-shortcodes.php:584
+msgid "You can select desktop column offset size"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:363 ../includes/visual-shortcodes.php:587
+msgid "Select desktop column offset for all item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:364 ../includes/visual-shortcodes.php:588
+msgid "col-md-offset-1"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:365 ../includes/visual-shortcodes.php:589
+msgid "col-md-offset-2"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:366 ../includes/visual-shortcodes.php:590
+msgid "col-md-offset-3"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:367 ../includes/visual-shortcodes.php:591
+msgid "col-md-offset-4"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:368 ../includes/visual-shortcodes.php:592
+msgid "col-md-offset-5"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:369 ../includes/visual-shortcodes.php:593
+msgid "col-md-offset-6"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:370 ../includes/visual-shortcodes.php:594
+msgid "col-md-offset-7"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:371 ../includes/visual-shortcodes.php:595
+msgid "col-md-offset-8"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:372 ../includes/visual-shortcodes.php:596
+msgid "col-md-offset-9"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:373 ../includes/visual-shortcodes.php:597
+msgid "col-md-offset-10"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:374 ../includes/visual-shortcodes.php:598
+msgid "col-md-offset-11"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:375 ../includes/visual-shortcodes.php:599
+msgid "col-md-offset-12"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:384 ../includes/visual-shortcodes.php:608
+msgid "Mobile column"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:386 ../includes/visual-shortcodes.php:610
+msgid "You can select mobile device column size"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:389 ../includes/visual-shortcodes.php:613
+msgid "Select mobile column for all item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:410 ../includes/visual-shortcodes.php:634
+msgid "Services items"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:416 ../includes/visual-shortcodes.php:640
+#: ../includes/visual-shortcodes.php:1042
+#: ../includes/visual-shortcodes.php:1194
+#: ../includes/visual-shortcodes.php:1338
+msgid "Item icon type"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:418 ../includes/visual-shortcodes.php:642
+#: ../includes/visual-shortcodes.php:1044
+#: ../includes/visual-shortcodes.php:1196
+#: ../includes/visual-shortcodes.php:1340
+msgid "You can select icon type image or fonticon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:420 ../includes/visual-shortcodes.php:644
+#: ../includes/visual-shortcodes.php:1046
+#: ../includes/visual-shortcodes.php:1198
+#: ../includes/visual-shortcodes.php:1342
+msgid "Select icon type"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:421 ../includes/visual-shortcodes.php:645
+#: ../includes/visual-shortcodes.php:1047
+#: ../includes/visual-shortcodes.php:1199
+#: ../includes/visual-shortcodes.php:1343
+msgid "Font icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:422 ../includes/visual-shortcodes.php:646
+#: ../includes/visual-shortcodes.php:1048
+#: ../includes/visual-shortcodes.php:1200
+#: ../includes/visual-shortcodes.php:1344
+msgid "Image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:427 ../includes/visual-shortcodes.php:651
+#: ../includes/visual-shortcodes.php:796
+#: ../includes/visual-shortcodes.php:1054
+#: ../includes/visual-shortcodes.php:1206
+#: ../includes/visual-shortcodes.php:1350
+msgid "Fonticon name"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:429 ../includes/visual-shortcodes.php:653
+#: ../includes/visual-shortcodes.php:798
+#: ../includes/visual-shortcodes.php:1352
+msgid "Add icon name(fonticon class name). example : fa fa-facebook"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:437 ../includes/visual-shortcodes.php:661
+#: ../includes/visual-shortcodes.php:1360
+msgid "image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:439 ../includes/visual-shortcodes.php:663
+#: ../includes/visual-shortcodes.php:1362
+msgid "Add your image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:447 ../includes/visual-shortcodes.php:671
+#: ../includes/visual-shortcodes.php:1370
+#: ../includes/visual-shortcodes.php:1439
+msgid "Title"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:449 ../includes/visual-shortcodes.php:673
+#: ../includes/visual-shortcodes.php:1372
+#: ../includes/visual-shortcodes.php:1441
+msgid "Add title for item."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:453 ../includes/visual-shortcodes.php:677
+#: ../includes/visual-shortcodes.php:806
+#: ../includes/visual-shortcodes.php:1376
+#: ../includes/visual-shortcodes.php:1445
+msgid "Detail"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:455 ../includes/visual-shortcodes.php:679
+#: ../includes/visual-shortcodes.php:808
+#: ../includes/visual-shortcodes.php:1378
+#: ../includes/visual-shortcodes.php:1447
+msgid "Add detail for item."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:462 ../includes/visual-shortcodes.php:686
+#: ../includes/visual-shortcodes.php:821 ../includes/visual-shortcodes.php:928
+#: ../includes/visual-shortcodes.php:969
+#: ../includes/visual-shortcodes.php:1121
+#: ../includes/visual-shortcodes.php:1273
+#: ../includes/visual-shortcodes.php:1384
+#: ../includes/visual-shortcodes.php:1453
+#: ../includes/visual-shortcodes.php:1504
+#: ../includes/visual-shortcodes.php:1611
+#: ../includes/visual-shortcodes.php:1702
+msgid "Background CSS"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:464 ../includes/visual-shortcodes.php:688
+#: ../includes/visual-shortcodes.php:823 ../includes/visual-shortcodes.php:930
+#: ../includes/visual-shortcodes.php:971
+#: ../includes/visual-shortcodes.php:1123
+#: ../includes/visual-shortcodes.php:1275
+#: ../includes/visual-shortcodes.php:1386
+#: ../includes/visual-shortcodes.php:1455
+#: ../includes/visual-shortcodes.php:1506
+#: ../includes/visual-shortcodes.php:1613
+#: ../includes/visual-shortcodes.php:1704
+msgid "Background options"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:476
+msgid "Services 2 Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:700
+msgid "About Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:712
+msgid "Section image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:714
+msgid "Add your custom left section image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:725
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:727
+msgid "Add subtitle for this section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:754
+msgid "About 2 Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:781
+#: ../includes/visual-shortcodes.php:1735
+msgid "Left image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:783
+msgid "Add your left image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:789
+msgid "About items"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:791 ../includes/visual-shortcodes.php:817
+msgid "About"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:835
+msgid "Testimonial Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:860
+#: ../includes/visual-shortcodes.php:1006
+#: ../includes/visual-shortcodes.php:1158
+#: ../includes/visual-shortcodes.php:1310
+#: ../includes/visual-shortcodes.php:1543
+#: ../includes/visual-shortcodes.php:1652
+msgid "Section heading"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:862
+#: ../includes/visual-shortcodes.php:1008
+#: ../includes/visual-shortcodes.php:1160
+#: ../includes/visual-shortcodes.php:1312
+#: ../includes/visual-shortcodes.php:1545
+#: ../includes/visual-shortcodes.php:1654
+msgid "Add heading for pricing section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:871
+#: ../includes/visual-shortcodes.php:1017
+#: ../includes/visual-shortcodes.php:1169
+#: ../includes/visual-shortcodes.php:1321
+#: ../includes/visual-shortcodes.php:1554
+#: ../includes/visual-shortcodes.php:1663
+msgid "Section description"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:873
+#: ../includes/visual-shortcodes.php:1019
+#: ../includes/visual-shortcodes.php:1171
+#: ../includes/visual-shortcodes.php:1323
+#: ../includes/visual-shortcodes.php:1556
+#: ../includes/visual-shortcodes.php:1665
+msgid "Add description for pricing section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:883
+msgid "Testimonial Style"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:885
+msgid "You can select testimonial style"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:886 ../includes/visual-shortcodes.php:896
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:888
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:889
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:894
+msgid "Testimonial items"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:901
+msgid "Testimonial image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:903 ../includes/visual-shortcodes.php:963
+msgid "Add your client image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:907
+msgid "Testimonial name"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:909
+msgid "Add your testimonial name"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:913
+msgid "Testimonial job"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:915
+msgid "Add your testimonial job or detail"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:919
+msgid "Testimonial quote"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:921
+msgid "Add your testimonial quote text"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:942
+msgid "Clients Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:954
+msgid "Client item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:956
+msgid "Client"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:961
+msgid "Client image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:983
+msgid "Features Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1028
+#: ../includes/visual-shortcodes.php:1180
+msgid "Center image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1030
+#: ../includes/visual-shortcodes.php:1182
+msgid "Add your center image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1035
+#: ../includes/visual-shortcodes.php:1187
+#: ../includes/visual-shortcodes.php:1332
+msgid "Features item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1037
+#: ../includes/visual-shortcodes.php:1189
+#: ../includes/visual-shortcodes.php:1334
+msgid "Features"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1056
+#: ../includes/visual-shortcodes.php:1208
+msgid "Add left icon name(fonticon class name). example : fa fa-facebook"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1064
+#: ../includes/visual-shortcodes.php:1216
+msgid "Left image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1066
+#: ../includes/visual-shortcodes.php:1218
+msgid "Add your left image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1074
+#: ../includes/visual-shortcodes.php:1226
+msgid "Left title"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1076
+#: ../includes/visual-shortcodes.php:1228
+msgid "Add left title for item."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1080
+#: ../includes/visual-shortcodes.php:1232
+msgid "Left detail"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1082
+#: ../includes/visual-shortcodes.php:1234
+msgid "Add left detail for item."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1087
+#: ../includes/visual-shortcodes.php:1239
+msgid "Right fonticon name"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1089
+#: ../includes/visual-shortcodes.php:1241
+msgid "Add right icon name(fonticon class name). example : fa fa-facebook"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1097
+#: ../includes/visual-shortcodes.php:1249
+msgid "Right image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1099
+#: ../includes/visual-shortcodes.php:1251
+msgid "Add your right image icon"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1107
+#: ../includes/visual-shortcodes.php:1259
+msgid "Right title"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1109
+#: ../includes/visual-shortcodes.php:1261
+msgid "Add right title for item."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1113
+#: ../includes/visual-shortcodes.php:1265
+msgid "Right detail"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1115
+#: ../includes/visual-shortcodes.php:1267
+msgid "Add right detail for item."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1135
+msgid "Features 2 Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1287
+msgid "How It Works Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1399
+msgid "Gallery Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1412
+msgid "Gallery item"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1414
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1418
+msgid "BG image position"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1420
+msgid "You can select gallery bg image position"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1422
+msgid "Select bg image position"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1429
+msgid "Background image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1431
+msgid "Add your background image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1468
+msgid "Video Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1476
+msgid "Add section ID for scrolling"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1480
+msgid "BG image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1482
+msgid "Add background image for video section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1486
+msgid "Video(Youtube) URL"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1488
+msgid ""
+"Add youtube video URL example: https://www.youtube.com/embed/1zG1iq9LZ2U"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1519
+msgid "Pricing ( Plugin )"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1528
+msgid "Add your Section ID"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1565
+msgid "Pack Style"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1567
+msgid "You can select pricing pack color style"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1568
+#: ../includes/visual-shortcodes.php:1579
+#: ../includes/visual-shortcodes.php:1585
+#: ../includes/visual-shortcodes.php:1592
+#: ../includes/visual-shortcodes.php:1599
+#: ../includes/visual-shortcodes.php:1606
+#: ../includes/visual-shortcodes.php:1676
+#: ../includes/visual-shortcodes.php:1683
+#: ../includes/visual-shortcodes.php:1690
+#: ../includes/visual-shortcodes.php:1697
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1570
+msgid "Style 1 ( Different Color )"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1571
+msgid "Style 2 ( Simple color )"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1576
+msgid "Price Button URL"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1578
+msgid "Add link for price button."
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1583
+msgid "Price Table Count"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1586
+msgid "You can control with number your price tables.Please enter a number"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1590
+#: ../includes/visual-shortcodes.php:1681
+msgid "Category"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1593
+msgid "Enter Price table category or write all"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1597
+msgid "Order"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1600
+msgid "Enter Price table order. DESC or ASC"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1604
+msgid "Orderby"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1607
+msgid "Enter Price table orderby. Default is : date"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1628
+msgid "TEAM ( Plugin )"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1637
+msgid "Add your section ID for scrolling"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1674
+msgid "Team post count"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1677
+msgid ""
+"You can control with number your team members post.Please enter a number"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1684
+msgid "Enter Team category or write all"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1688
+msgid "order"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1691
+msgid "Enter Team order. DESC or ASC"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1695
+msgid "orderby"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1698
+msgid "Enter Team orderby. Default is : date"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1717
+msgid "App store Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1729
+msgid "BG parallax image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1731
+msgid "Add background parallax image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1737
+msgid "Add left image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1744
+#: ../includes/visual-shortcodes.php:1751
+#: ../includes/visual-shortcodes.php:1758
+msgid "Right Section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1755
+msgid "Description 2"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1757
+msgid "Add description second for this section"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1762
+msgid "Button 1(Link)"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1765
+#: ../includes/visual-shortcodes.php:1772
+#: ../includes/visual-shortcodes.php:1779
+#: ../includes/visual-shortcodes.php:1786
+msgid "Button"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1769
+msgid "Appstore image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1771
+#: ../includes/visual-shortcodes.php:1785
+msgid "Add your custom button image"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1776
+msgid "Button 2(Link)"
+msgstr ""
+
+#: ../includes/visual-shortcodes.php:1783
+msgid "Playstore image"
+msgstr ""
+
+#: ../index-header.php:13 ../index-header.php:21 ../one-page-template.php:27
+#: ../one-page-template.php:35
+msgid "Landium"
+msgstr ""
+
+#: ../index-header.php:19 ../one-page-template.php:33
+msgid "Logo"
+msgstr ""
+
+#: ../post-format/content-audio.php:61 ../post-format/content-gallery.php:64
+#: ../post-format/content-quote.php:84 ../post-format/content-video.php:75
+#: ../post-format/content.php:67
+msgid "Read More"
+msgstr ""
+
+#: ../search.php:26
+msgid "Search Results Found For"
+msgstr ""

@@ -1,0 +1,43 @@
+#setting-error-tgmpa, #setting-error-nt-landium {display: block !important;}
+.rwmb-divider-wrapper hr {
+    border-top: 4px solid #F1F1F1 !important;
+    margin: 20px -12px 20px;
+}
+.rwmb-heading-wrapper h4 {
+    display: block;
+    font-size: .75rem;
+    line-height: 1.4;
+    border-bottom: 1px solid rgb(230, 230, 230);
+    /* text-transform: uppercase; */
+    padding: 0 20px 10px;
+    font-weight: 700;
+    margin: 0 -12px 6px;
+}
+
+.rwmb-heading-wrapper h4 {
+    border-bottom: 0 !important;
+    text-transform: none !important;
+    padding: 6px 16px 8px!important;
+    font-weight: 700!important;
+    /* margin: -33px 0px 6px -12px!important; */
+    background: #0073AA!important;
+    color: #FFFFFF!important;
+    width: 99.3%;
+}
+
+.rwmb-tab-panel .rwmb-thickbox_image-wrapper ul li {
+	display: inline-block;
+    position: relative;
+}
+
+.rwmb-image-item .rwmb-media-preview {
+    width: 150px;
+    background: #eee;
+}
+
+.vc_license-activation-notice {
+    display: none!important;
+}
+.hide-color-picker {
+    display: inherit !important;
+}

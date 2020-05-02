@@ -1,0 +1,199 @@
+/* use this file just for theme versions */
+#footer .contact__item p {
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+img {
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+
+.template-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    top: 0;
+    left: 0;
+}
+
+.page-template-default .start-screen--static-bg--style-1, .page-template-fullwidth-page .start-screen--static-bg--style-1, .blog .start-screen--static-bg--style-1, .archive .start-screen--static-bg--style-1, .search .start-screen--static-bg--style-1, .error404 .start-screen--static-bg--style-1, .single .start-screen--static-bg--style-1 {
+    border-bottom: 0px;
+}
+
+.footer--style-2 .custom-btn.light.inverted, .footer--style-3 .custom-btn.light.inverted {
+    display: block;
+    margin-top: 10px;
+}
+
+#footer .contact__item>a[href^="mailto"]:hover {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+@media (max-width: 991px) {
+    .dropdown-menu {
+        text-align: center;
+    }
+
+    #top-bar__navigation .dropdown-menu li:first-child {
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 991px) {
+    #top-bar__navigation ul.dropdown-menu {
+        display: none;
+    }
+
+    #top-bar__navigation>ul>li.open>ul.dropdown-menu {
+        display: block;
+        position: relative;
+        margin-bottom: 30px;
+        float: none;
+    }
+}
+
+body.search article .searchform input[type="submit"] {
+    z-index: 1;
+}
+
+body.error404 article .searchform input[type="submit"] {
+    z-index: 1;
+}
+
+.img-center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block !important;
+}
+
+.team__name a {
+    color: #444;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.team .team__item:hover .team__name a {
+    color: #fff;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.iziModal .iziModal-wrap {
+    background: #fff;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 0 25px #000;
+    box-shadow: 0 0 25px #000;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+@media (max-width: 767px) {
+    .shadow-primary {
+        margin-bottom: 15px;
+    }
+}
+
+/* Gutenberg updates */
+.wp-block-cover p.wp-block-cover-text {
+    color: #fff;
+}
+
+.wp-block-button {
+    margin-bottom: 15px;
+}
+
+.wp-block-gallery.nt-theme-content-list {
+    padding: 0px !important;
+    margin: 0 0 30px !important;
+}
+
+.wp-block-gallery.alignleft.columns-2.is-cropped.nt-theme-content-list {
+    margin-right: 15px !important;
+}
+
+.wp-block-quote.is-large, .wp-block-quote.is-style-large {
+    margin: 30px 0 32px 45px;
+    padding: 0 1em;
+}
+
+.wp-block-archives.wp-block-archives-dropdown .nice-select {
+    float: none;
+    max-width: 250px;
+}
+
+.wp-block-columns.alignwide.has-3-columns blockquote {
+    margin: 0 auto !important;
+}
+
+.wp-block-archives.wp-block-archives-list,
+.wp-block-archives.wp-block-archives-dropdown,
+.wp-block-categories.wp-block-categories-list,
+.wp-block-latest-comments.has-avatars.has-dates.has-excerpts,
+.wp-block-latest-comments,
+.wp-block-latest-posts.wp-block-latest-posts__list,
+.wp-block-latest-posts.is-grid {
+    margin-bottom: 30px !important;
+}
+
+.wp-block-media-text {
+    margin-bottom: 30px;
+}
+
+.nt-theme-content .wp-block-archives.wp-block-archives-dropdown .nice-select .option {
+    cursor: pointer;
+    font-weight: 400;
+    line-height: 40px;
+    list-style: none;
+    min-height: 40px;
+    outline: none;
+    padding-left: 18px;
+    padding-right: 29px;
+}
+
+.blocks-gallery-grid .blocks-gallery-image, .blocks-gallery-grid .blocks-gallery-item, .wp-block-gallery .blocks-gallery-image, .wp-block-gallery .blocks-gallery-item {
+    margin: 0 5px 5px 0 !important;
+}
+
+.wp-block-embed {
+    margin-bottom: 2em;
+}
+
+ul.wp-block-latest-posts.wp-block-latest-posts__list.has-dates li {
+    margin-bottom: 20px;
+}
+
+ul.wp-block-categories.wp-block-categories-list li,
+ul.wp-block-archives.wp-block-archives-list li {
+    margin-bottom: 10px;
+}
+
+.wp-block-gallery {
+    padding: 0 !important;
+    margin: 0 5px 20px 0px;
+}
+
+.wp-block-latest-comments {
+    padding: 0;
+}
+
+.wp-block-image {
+    margin-bottom: 2em;
+}
+
+.wp-block-cover {
+    margin: 0 25px 25px 0;
+}
+
+.wp-block-latest-posts.wp-block-latest-posts__list {
+    padding-left: 0;
+}
