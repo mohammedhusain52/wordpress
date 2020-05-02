@@ -1,0 +1,171 @@
+Version 2.2.4 - 21/03/2020
+
+FIXED & ADDED
+Fixed : demodata merlin problem
+
+Version 2.2.3 - 21/02/2020
+
+FIXED & ADDED
+Fixed : css corrections made
+Fixed :	inner pages some parts for design problems
+Fixed :	CSS files for Gutenberg Blocks
+
+
+CHANGED
+functions.php
+style.css
+wordpress.css
+
+Version 2.2.0 - 23/4/2019
+
+UPDATES
+Fixed: Some minor reported issues.
+Added: Page hero options
+
+CHANGED:
+style.css
+theme-init.php
+page-metaboxes.php
+custom-style.php
+
+
+Version 2.1.8 - 8/3/2019
+
+UPDATES
+Fixed: Some minor reported issues.
+
+CHANGED:
+style.css
+theme-init.php
+visual-shortcode.php
+
+
+Version 2.1.7 - 30/01/2019
+
+UPDATES
+Added: Icon selectbox option added inside the About 2 shortcode
+Added: Icon selectbox option added inside the How It Works shortcode
+Added: Icon selectbox option added inside the Feature 2 shortcode
+Added: Breadcrumb option added per page, at the bottom of pages.
+Added: Sticky image logo options added.
+Fixed: Some minor reported issues.
+
+CHANGED:
+one-page-template.php
+page.php
+page-metabox.php
+theme-options.php
+custom-style.php
+visual-shortcode.php
+
+
+﻿
+Version 2.1.0 - 26/7/2017
+
+UPDATES
+Fixed : Some minor problems
+Updated : Plugins
+
+
+CHANGED
+style.css
+includes/theme-init.php
+includes/custom-style.php
+
+﻿
+
+Version 2.0 - 12/6/2017
+
+UPDATES
+Fixed : About section problem
+Fixed : Price table section problem
+Fixed : Some minor problems
+
+
+CHANGED
+style.css
+includes/theme-init.php
+includes/visual-shortcodes.php and theme shortcode plugin
+
+
+Version 1.1.4 - 27/04/2017
+
+UPDATES
+Added : Visual Composer row options
+Added : Visual Composer column options
+Added : Visual Composer inner column options
+Added : Shortcode customize options
+Added : Shortcode animation options
+Added : New google fonts options
+Added : New typography options
+Added : New navigation options
+Added : New footer options
+Added : New sidebar options
+Added : New blog page options
+Added : New single page options
+Added : New archive page options
+Added : New search page options
+Added : New 404 page options
+Added : New metaboxes for page
+Added : New metaboxes for post share
+Added : Wow animation js and css file
+Updated : Visual Composer
+Updated : Revolution Slider
+Updated : Fontawesome icon css file
+Fixed : Theme options some minor problems
+
+
+Version 1.1.3 - 19/4/2017
+
+UPDATES
+Fixed : Plugins installer problem
+Fixed : Some minor problems
+
+
+CHANGED
+style.css
+includes/theme-init.php
+
+
+Version 1.1.2 - 21/01/2017
+
+UPDATES
+Added : Custom preloader for add/upload unlimited preloader
+Added : Options for text logo
+Added : Options for theme colors
+Added : Metaboxes for page layouts
+Added : Visual theme CSS customizer
+Fixed : Breadcrumb problems
+Fixed : Footer problems
+Fixed : Ipmroved theme codes and features
+
+
+CHANGED
+style.css
+footer.php
+page.php
+fullwidth-page.php
+one-page.php
+includes/custom-style.php
+header.php
+css/update.css
+css/wordpress.css
+includes/theme-options.php
+includes/page-metabox.php
+
+Version 1.1.1 - 07/01/2017
+
+Fixed : Menu scroll and click problems
+Fixed : Scrollbar problem
+
+
+Version 1.1.0 - 04/01/2016
+
+Fixed : Menu scroll and click problems
+Fixed : Mobile Menu scroll and click problems
+Fixed : Contact form 7 design and after error design problems
+Fixed : Documentation
+Added : Revslider demodatas
+Added : Oneclick demodata installer
+
+Version 1.0 - 15/11/2016
